@@ -31,15 +31,4 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </div>
 
-###
-<hr>
-<h3 align="left">🔥 My Stats :</h3>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrrutii29&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="shrrutii29" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrrutii29&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="shrrutii29" /></p>
-</div>
-
-###
-
-<hr>
