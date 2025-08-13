@@ -46,10 +46,11 @@ I believe in exploring new ideas, tackling problems with creativity, and evolvin
   <img src="https://img.shields.io/badge/CSS3-333?style=flat&logo=css&logoColor=1572B6" alt="CSS3" />
 </div>
 
-<h3 align="left">🛠 Badges : </h3>
-<div align="left">
-  ![Postman Student Expert](assets/Postman - Postman API Fundamentals Student Expert.png)
-![GSSOC Contributor](assets/GSSoc Contributor's badge.jpg)
+<h3>🛠 Badges:</h3>
+<div>
+  <img src="assets/Postman - Postman-API-Fundamentals-Student-Expert.png" alt="Postman Student Expert" width="120"/>
+  <img src="assets/GSSoc-Contributor-badge.jpg" alt="GSSOC Contributor" width="120"/>
 </div>
+
 
 
